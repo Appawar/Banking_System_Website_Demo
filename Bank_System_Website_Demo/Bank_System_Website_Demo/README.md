@@ -1,6 +1,7 @@
-# basicbankingsystem
-A Web application used to transfer money between multiple users (project contains 10 dummy users).
-A dummy user can also be created.
-
-user table have basic fields such as name,email & current balance.
-Transaction table records all transfers.
+# Banking_System_Website
+Created and Developed by : Abhay Pawar. 
+This is Basic Banking System Website built in Visual Studio Code.
+In this website we can view customers and can transfer money among them.
+Customers table will have basic fields such as name, email, current balance,etc. 
+We can also see the status of transactions whether they are successful or not.
+Transfer table will record all transfers happened.
